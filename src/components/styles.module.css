@@ -1,0 +1,36 @@
+.id_div{
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+.tag{
+    display: flex;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+  
+
+}
+.header{
+    display: flex;
+    width: 90%;
+    font-size: 14px;
+    font-weight: 400;
+    box-sizing: border-box;
+    padding-left: 4px;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    margin-top: 20px;
+    
+}
+.center{
+    display: flex;
+    height: auto;
+    align-items: center;
+}
